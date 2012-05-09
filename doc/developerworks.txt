@@ -12,3 +12,7 @@ in - inline code
 img - image
 sidebar - a sidebar
 table - the simple table
+
+In command mode:
+leader dw - run ./dw-transform.sh
+leader check - pass file through xmlwf

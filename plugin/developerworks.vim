@@ -1,6 +1,6 @@
 " developerWorks template stuff
-"cmap check :!xmlwf < %<CR>
-"cmap dw :!./dw-transform.sh
+cmap <leader>check !xmlwf < %<CR>
+cmap <leader>dw !./dw-transform.sh<CR>
 imap <leader>h1 <heading alttoc="" refname="" type="major" back-to-top="no"></heading><Esc>F<i
 imap <leader>h2 <heading alttoc="" refname="" type="minor" back-to-top="no"></heading><Esc>F<i
 imap <leader>ref <xref href="#listingX" link="yes"/><Esc>FXcl
