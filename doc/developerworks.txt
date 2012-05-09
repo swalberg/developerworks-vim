@@ -1,0 +1,14 @@
+developerworks.txt	For Vim version 7.3	Last change: 2012 May 8
+
+Functions~
+
+All functions begin with leader and usually move the cursor to the next logical spot
+
+h1 - major heading
+h2 - minor heading
+ref - an xref to a listing
+code - code listing template
+in - inline code
+img - image
+sidebar - a sidebar
+table - the simple table
